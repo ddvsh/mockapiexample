@@ -20,5 +20,6 @@ paths:
                     barcodeData: s0m3numb3r5
                     checkedInStatus: CHECKED_IN
                     seatNumber: A3
+                    seatNumber3: A3
               schema:
                 $ref: ../common/models/flight.v1.yaml

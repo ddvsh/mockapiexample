@@ -10,20 +10,5 @@ properties:
       - CHECKED_IN
       - NOT_CHECKED_IN
       - BOARDED
-  seatNumber:
-    type: string
-    example: F2
-    pattern: '^[A-Z][1-9]$'
-  namePassanger:
-    type: string
-    example: F2
-    pattern: '^[A-Z][1-9]$'
-  nameChild:
-    type: string
-    example: F2
-    pattern: '^[A-Z][1-9]$'
-  nameParent:
-    type: string
-    example: F2
-    pattern: '^[A-Z][1-9]$'
+ 
 

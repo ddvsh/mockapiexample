@@ -14,6 +14,10 @@ properties:
     type: string
     example: F2
     pattern: '^[A-Z][1-9]$'
+  seatNumber3:
+    type: string
+    example: F2
+    pattern: '^[A-Z][1-9]$'
   namePassange:
     type: string
     example: F2

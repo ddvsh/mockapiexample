@@ -22,6 +22,6 @@ paths:
                     seatNumber: A3
                     namePassanger: A3
                     nameParent: A5
-                    nameChild: A6
+                   
               schema:
                 $ref: ../common/models/flight.v1.yaml

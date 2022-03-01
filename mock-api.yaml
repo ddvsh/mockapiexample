@@ -152,4 +152,4 @@ components:
         - message
       properties:
         code:
-          type: integer
+          type: string

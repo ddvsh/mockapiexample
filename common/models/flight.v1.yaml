@@ -14,7 +14,7 @@ properties:
     type: string
     example: F2
     pattern: '^[A-Z][1-9]$'
-  seatNumber2:
+  seatNumber22:
     type: string
     example: F2
     pattern: '^[A-Z][1-9]$'

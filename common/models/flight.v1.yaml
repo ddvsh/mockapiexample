@@ -16,9 +16,9 @@ properties:
     pattern: '^[A-Z][1-9]$'
   seatNumber55:
     type: string
-    example: F8
+    example: E6
     pattern: '^[A-Z][1-9]$'
   seatNumber44:
     type: string
-    example: F5
+    example: E4
     pattern: '^[A-Z][1-9]$'

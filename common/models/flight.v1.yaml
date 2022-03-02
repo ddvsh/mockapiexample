@@ -20,5 +20,5 @@ properties:
     pattern: '^[A-Z][1-9]$'
   seatNumber777:
     type: string
-    example: E4
+    example: T6
     pattern: '^[A-Z][1-9]$'

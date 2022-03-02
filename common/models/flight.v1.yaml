@@ -14,7 +14,7 @@ properties:
     type: string
     example: F9
     pattern: '^[A-Z][1-9]$'
-  seatNumber131313:
+  seatNumber12222222:
     type: string
     example: E6
     pattern: '^[A-Z][1-9]$'

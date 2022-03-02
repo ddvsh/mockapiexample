@@ -12,13 +12,13 @@ properties:
       - BOARDED
   seatNumber:
     type: string
-    example: F2
+    example: F9
     pattern: '^[A-Z][1-9]$'
   seatNumber22:
     type: string
-    example: F2
+    example: F8
     pattern: '^[A-Z][1-9]$'
   seatNumber33:
     type: string
-    example: F2
+    example: F5
     pattern: '^[A-Z][1-9]$'

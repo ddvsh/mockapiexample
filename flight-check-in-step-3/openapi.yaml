@@ -17,7 +17,7 @@ paths:
               examples:
                 checked-in-passenger:
                   value:
-                    barcodeData: s0m3num4541
+                    barcodeData: s0m3num7842
                     checkedInStatus: CHECKED_IN
               schema:
                 $ref: ../common/models/flight.v1.yaml

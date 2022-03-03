@@ -4,7 +4,7 @@ properties:
   barcodeData:
     type: string
     format: binary
-  checkedInStatus:
+  checkedInStatusChanged:
     type: string
     enum:
       - CHECKED_IN
@@ -14,15 +14,15 @@ properties:
     type: string
     example: F9
     pattern: '^[A-Z][1-9]$'
-  seatNumber0005:
+  seatNumber0005Changed:
     type: string
     example: E6
     pattern: '^[A-Z][1-9]$'
-  seatNumber0007:
+  seatNumber0007Changed:
     type: string
     example: T6
     pattern: '^[A-Z][1-9]$'
-  seatNumber0009:
+  seatNumber0009Changed:
     type: string
     example: T6
     pattern: '^[A-Z][1-9]$'

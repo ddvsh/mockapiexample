@@ -14,11 +14,11 @@ properties:
     type: string
     example: F9
     pattern: '^[A-Z][1-9]$'
-  seatNumber2022:
+  seatNumber20222023:
     type: string
     example: E6
     pattern: '^[A-Z][1-9]$'
-  seatNumber2023:
+  seatNumber20232024:
     type: string
     example: T6
     pattern: '^[A-Z][1-9]$'
